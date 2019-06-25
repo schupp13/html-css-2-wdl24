@@ -1,0 +1,39 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+header {
+    background-color: #252525;
+}
+
+a, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    color: #2aabe2;
+    font-size: 30px;
+    margin-top: 1.5em;
+}
+
+#logo {
+    max-height: 5vh;
+}
+
+#chat-icon {
+    font-size: 1.5em;
+    background: rgb(255, 153, 31);
+    width: 60px;
+    height: 60px;
+}
+
+#call-out {
+    min-height: 70vh;
+    background: url('https://s3.amazonaws.com/devmountain/www/img/group-proj-index.jpg');
+    background-size: cover;
+}
+
+a.video-link {
+    color: #2aabe2;
+}
